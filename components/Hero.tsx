@@ -29,7 +29,7 @@ export default function Hero() {
             <div className="flex flex-wrap gap-4">
               <a
                 href="#products"
-                className="inline-flex items-center gap-2 bg-amber-400 hover:bg-amber-300 text-slate-900 font-bold px-7 py-3.5 rounded-full transition-all duration-200 shadow-lg hover:shadow-amber-400/30 hover:-translate-y-0.5"
+                className="inline-flex items-center gap-2 bg-green-500 hover:bg-green-400 text-white font-bold px-7 py-3.5 rounded-full transition-all duration-200 shadow-lg hover:shadow-green-500/30 hover:-translate-y-0.5"
               >
                 Shop Now
                 <ArrowRight size={18} />
